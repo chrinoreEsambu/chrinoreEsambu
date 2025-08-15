@@ -74,9 +74,13 @@
 ### 🌐 Socials
 <p align="left"> 
   <!-- Email -->
-  <a href="mailto:chrinoren@gmail.com" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/mail.svg" width="32" height="32" alt="Email" title="Email" style="filter: brightness(0);" />
-  </a>
+<a href="mailto:chrinoren@gmail.com" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" 
+       alt="Email" 
+       width="32" 
+       height="32" 
+       style="filter: brightness(0) invert(1);" />
+</a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/chrinore-esambu-589725253" target="_blank" rel="noreferrer" style="margin-right: 10px;">
