@@ -20,7 +20,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxtjs" title="Nuxtjs" width="36" height="36" style="margin-right: 10px;" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" style="margin-right: 10px;" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" style="margin-right: 10px;" />
   </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" title="NodeJS" width="36" height="36" style="margin-right: 10px;" />
