@@ -49,14 +49,7 @@
   <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://pinia.vuejs.org/logo.svg" alt="Pinia" title="Pinia" width="36" height="36" style="margin-right: 10px; border-radius: 6px;" />
   </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" 
-       alt="Photoshop" 
-       title="Adobe Photoshop" 
-       width="42" 
-       height="42" 
-       style="background-color: #001D26; border-radius: 8px; padding: 6px; margin-right: 10px;" />
-</a>
+ 
   <a href="https://jwt.io/" target="_blank" rel="noreferrer">
   <img src="https://jwt.io/img/pic_logo.svg" 
        alt="JWT" 
@@ -64,6 +57,15 @@
        width="42" 
        height="42" 
        style="background-color: #000000; border-radius: 8px; padding: 6px; margin-right: 10px;" />
+</a>
+
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" 
+       alt="Photoshop" 
+       title="Adobe Photoshop" 
+       width="44" 
+       height="44"
+       style="background: #001e36; border-radius: 8px; padding: 6px; margin-right: 10px;">
 </a>
 </p>
 
