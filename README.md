@@ -73,10 +73,10 @@
 
 ### 🌐 Socials
 <p align="left"> 
-  <!-- Email -->
-  <a href="mailto:chrinoren@gmail.com" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="32" height="32" alt="Email" title="Email" style="filter: grayscale(100%) brightness(0.8) sepia(100%) hue-rotate(180deg) saturate(500%);" />
+ <a href="mailto:chrinoren@gmail.com" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" width="32" height="32" alt="Email" title="Email" />
   </a>
+ 
 <p align="left"> 
   <a href="www.linkedin.com/in/chrinore-esambu-589725253" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <picture>
