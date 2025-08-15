@@ -15,8 +15,8 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" style="margin-right: 10px;" />
   </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" style="margin-right: 10px;" />
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" title="GitHub" width="36" height="36" style="margin-right: 10px;" />
   </a>
   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" alt="Nuxtjs" title="Nuxtjs" width="36" height="36" style="margin-right: 10px;" />
