@@ -41,7 +41,7 @@
   <a href="https://render.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36" style="margin-right: 10px;" />
   </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <a href="https://voyager.postman.com/illustration/postman-ai-strategy.svg" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postman-colored.svg" alt="Postman" title="Postman" width="36" height="36" style="margin-right: 10px;" />
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
