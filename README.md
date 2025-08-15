@@ -57,6 +57,14 @@
        height="42" 
        style="background-color: #001D26; border-radius: 8px; padding: 6px; margin-right: 10px;" />
 </a>
+  <a href="https://jwt.io/" target="_blank" rel="noreferrer">
+  <img src="https://jwt.io/img/pic_logo.svg" 
+       alt="JWT" 
+       title="JSON Web Tokens" 
+       width="42" 
+       height="42" 
+       style="background-color: #000000; border-radius: 8px; padding: 6px; margin-right: 10px;" />
+</a>
 </p>
 
 
