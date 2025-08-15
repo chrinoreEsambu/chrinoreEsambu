@@ -63,7 +63,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" 
        alt="Photoshop" 
        title="Adobe Photoshop" 
-       
+       width="41" 
+       height="41"
        style="background: #001e36; border-radius: 8px; padding: 6px; margin-right: 10px;">
 </a>
 </p>
