@@ -6,6 +6,7 @@
 - ⚡ Fun fact: I like computer competitions and especially participating in their organization.
 
 <!-- Skills -->
+<!-- Skills -->
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" style="margin-right: 10px;" />
@@ -40,6 +41,24 @@
   <a href="https://render.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36" style="margin-right: 10px;" />
   </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postman-colored.svg" alt="Postman" title="Postman" width="36" height="36" style="margin-right: 10px;" />
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" title="GitHub" width="36" height="36" style="margin-right: 10px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" style="margin-right: 10px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" style="margin-right: 10px;" />
+  </a>
+  <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/32372333?s=200&v=4" alt="Axios" title="Axios" width="36" height="36" style="margin-right: 10px; border-radius: 6px;" />
+  </a>
+  <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://pinia.vuejs.org/logo.svg" alt="Pinia" title="Pinia" width="36" height="36" style="margin-right: 10px; border-radius: 6px;" />
+  </a>
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" />
   </a>
@@ -64,6 +83,7 @@
     </picture>
   </a>
 </p>
+
 
 
 <!---
