@@ -73,7 +73,7 @@
 
 ### 🌐 Socials
 <p align="left"> 
-  <a href="https://www.linkedin.com/in/chrinore-esambu-589725253" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+  <a href="www.linkedin.com/in/chrinore-esambu-589725253" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
