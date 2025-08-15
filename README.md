@@ -14,8 +14,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="36" height="36" style="margin-right: 10px;" />
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="36" height="36" style="margin-right: 10px;" />
-  </a>
+  <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" title="GitHub" width="42" height="42" style="background-color: #2D333B; border-radius: 50%; padding: 5px; margin-right: 10px;"/>
+</a>
   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxtjs" title="Nuxtjs" width="36" height="36" style="margin-right: 10px;" />
   </a>
