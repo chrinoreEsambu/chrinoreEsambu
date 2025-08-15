@@ -73,12 +73,17 @@
 
 ### 🌐 Socials
 <p align="left"> 
- <a href="mailto:chrinoren@gmail.com" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" width="32" height="32" alt="Email" title="Email" />
+  <!-- Email -->
+  <a href="mailto:chrinoren@gmail.com" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" alt="Email" title="Email" />
+    </picture>
   </a>
- 
-<p align="left"> 
-  <a href="www.linkedin.com/in/chrinore-esambu-589725253" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/chrinore-esambu-589725253" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
@@ -86,6 +91,7 @@
     </picture>
   </a>
 
+  <!-- Instagram -->
   <a href="https://www.instagram.com/mr_esambu_16?igsh=Y215Njc3N24za2U2" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
@@ -94,6 +100,7 @@
     </picture>
   </a>
 </p>
+
 
 
 <!---
