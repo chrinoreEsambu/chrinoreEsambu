@@ -56,8 +56,8 @@
   <img src="https://jwt.io/img/pic_logo.svg" 
        alt="JWT" 
        title="JSON Web Tokens" 
-       width="38" 
-       height="38" 
+       width="37" 
+       height="37" 
        style="background-color: #000000; border-radius: 8px; padding: 6px; margin-right: 10px;" />
 </a>
 
@@ -65,13 +65,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" 
        alt="Photoshop" 
        title="Adobe Photoshop" 
-       width="38" 
-       height="38"
+       width="37" 
+       height="37"
        style="background: #001e36; border-radius: 8px; padding: 6px; margin-right: 10px;">
 </a>
 </p>
 
-### Socials
+### 🌐 Socials
 <p align="left"> 
   <a href="https://www.linkedin.com/in/chrinore-esambu-589725253" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <picture>
