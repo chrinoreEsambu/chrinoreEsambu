@@ -56,7 +56,7 @@
     </picture>
   </a>
 
-  <a href="https://www.instagram.com/mr_esambu_16?igsh=Y215Njc3N24za2U2" target="blank" rel="noreferrer">
+  <a href="https://www.instagram.com/mr_esambu_16?igsh=Y215Njc3N24za2U2" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
