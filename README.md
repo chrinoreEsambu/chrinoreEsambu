@@ -2,9 +2,10 @@
 - 👀 I’m interested in Web app devellopement...
 - 🌱 I’m currently learning Vuejs & Nodejs...
 - 💞️ I’m looking to collaborate on on your project if you want
-- 📫 How to reach me by instagram mr_esambu_16 or on linkdin 'chrinore Esambu' and mail
+- 📫 How to reach me by instagram mr_esambu_16 or on linkdin 'chrinore Esambu' and mail (*Click on the Socials icons below to reach me directly !*
+)
 - ⚡ Fun fact: I like computer competitions and especially participating in their organization.
-- 
+
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
