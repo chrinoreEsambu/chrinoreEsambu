@@ -73,6 +73,11 @@
 
 ### 🌐 Socials
 <p align="left"> 
+  <!-- Email -->
+  <a href="mailto:chrinoren@gmail.com" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="32" height="32" alt="Email" title="Email" style="filter: grayscale(100%) brightness(0.8) sepia(100%) hue-rotate(180deg) saturate(500%);" />
+  </a>
+<p align="left"> 
   <a href="www.linkedin.com/in/chrinore-esambu-589725253" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
