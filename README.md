@@ -75,11 +75,7 @@
 <p align="left"> 
   <!-- Email -->
   <a href="mailto:chrinoren@gmail.com" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" alt="Email" title="Email" />
-    </picture>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/mail.svg" width="32" height="32" alt="Email" title="Email" style="filter: brightness(0);" />
   </a>
 
   <!-- LinkedIn -->
