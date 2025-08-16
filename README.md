@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrinoreEsambu
-- 👀 I’m interested in Web app devellopement...
-- 🌱 I’m currently learning Vuejs & Nodejs...
+- 👀 I’m interested in Web app devellopement
+- 🌱 I’m currently learning Vuejs & Nodejs
 - 💞️ I’m looking to collaborate on on your project if you want
 - 📫 Reach me by instagram mr_esambu_16, on linkdin 'chrinore Esambu' and mail (*Click on the Socials icons below to reach me directly !*
 )
