@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on on your project if you want
 - 📫 Reach me by instagram mr_esambu_16, on linkdin 'chrinore Esambu' and mail (*Click on the Socials icons below to reach me directly !*
 )
-- ⚡ Fun fact: I like computer competitions and especially participating in their organization.
+- ⚡ Fun fact : I like computer competitions and especially participating in their organization.
 
 ### 🛠️ Tech Stack & Tools
 
