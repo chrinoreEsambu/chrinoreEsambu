@@ -6,7 +6,7 @@
 )
 - ⚡ Fun fact : I like computer competitions and especially participating in their organization.
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tool
 
 <p align="left">
   <!-- Version optimisée avec liens vérifiés -->
