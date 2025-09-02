@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chrinore Esamb
+- 👋 Hi, I’m @chrinore Esambu
 - 👀 I’m interested in Web app developement
 - 🌱 I’m currently learning Vuejs & Nodejs
 - 💞️ I’m looking to collaborate on on your project if you want
