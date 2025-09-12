@@ -102,11 +102,11 @@
   </a>
 </p>
 <!--tika-->
-<a href="https://www.instagram.com/mr_esambu_16?igsh=Y215Njc3N24za2U2" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/company/tika-%E2%84%A2" target="_blank" rel="noreferrer">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/1BM63EUBAw0ouI_v0GGenN5hluQq6lkSJ/view?usp=drive_link" />
-    <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/file/d/1BM63EUBAw0ouI_v0GGenN5hluQq6lkSJ/view?usp=drive_link" />
-    <img src="https://drive.google.com/file/d/1BM63EUBAw0ouI_v0GGenN5hluQq6lkSJ/view?usp=drive_link" width="32" height="26" alt="Instagram" title="Instagram" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/uc?export=view&id=1BM63EUBAw0ouI_v0GGenN5hluQq6lkSJ" />
+    <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/uc?export=view&id=1BM63EUBAw0ouI_v0GGenN5hluQq6lkSJ" />
+    <img src="https://drive.google.com/uc?export=view&id=1BM63EUBAw0ouI_v0GGenN5hluQq6lkSJ" width="32" height="26" alt="LinkedIn" title="LinkedIn" />
   </picture>
 </a>
 
