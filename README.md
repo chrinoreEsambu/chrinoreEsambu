@@ -107,7 +107,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/uc?export=view&id=1BM63EUBAw0ouI_v0GGenN5hluQq6lkSJ" />
     <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/uc?export=view&id=1BM63EUBAw0ouI_v0GGenN5hluQq6lkSJ" />
-    <img src="https://drive.google.com/uc?export=view&id=1BM63EUBAw0ouI_v0GGenN5hluQq6lkSJ" width="50" height="50" alt="LinkedIn" title="LinkedIn" />
+    <img src="https://drive.google.com/uc?export=view&id=1BM63EUBAw0ouI_v0GGenN5hluQq6lkSJ" width="90" height="90" alt="LinkedIn" title="LinkedIn" />
   </picture>
 </a>
 
