@@ -103,14 +103,14 @@
   </a>
 
   <!-- LinkedIn Tika -->
-  <a href="https://www.linkedin.com/company/tika-%E2%84%A2" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/uc?export=view&id=1BM63EUBAw0ouI_v0GGenN5hluQq6lkSJ" />
-      <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/uc?export=view&id=1BM63EUBAw0ouI_v0GGenN5hluQq6lkSJ" />
-      <img src="https://drive.google.com/uc?export=view&id=1BM63EUBAw0ouI_v0GGenN5hluQq6lkSJ" width="32" height="32" alt="LinkedIn Tika" title="LinkedIn Tika" />
-    </picture>
-  </a>
-
+ <!--tika-->
+<a href="https://www.linkedin.com/company/tika-%E2%84%A2" target="_blank" rel="noreferrer">
+  <picture width="102" height="102">
+    <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/uc?export=view&id=1BM63EUBAw0ouI_v0GGenN5hluQq6lkSJ" />
+    <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/uc?export=view&id=1BM63EUBAw0ouI_v0GGenN5hluQq6lkSJ" />
+    <img src="https://drive.google.com/uc?export=view&id=1BM63EUBAw0ouI_v0GGenN5hluQq6lkSJ" width="32" height="26" alt="LinkedIn" title="LinkedIn" />
+  </picture>
+</a>
 </div>
 
 
