@@ -105,12 +105,15 @@
 <!-- LinkedIn Tika -->
  <!--tika-->
 <a href="https://www.linkedin.com/company/tika-%E2%84%A2" target="_blank" rel="noreferrer">
-  <picture >
-    <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/uc?export=view&id=1BM63EUBAw0ouI_v0GGenN5hluQq6lkSJ" />
-    <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/uc?export=view&id=1BM63EUBAw0ouI_v0GGenN5hluQq6lkSJ" />
-    <img src="https://drive.google.com/uc?export=view&id=1BM63EUBAw0ouI_v0GGenN5hluQq6lkSJ" width="115" height="115" margin="0" alt="LinkedIn" title="LinkedIn" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/uc?export=view&id=1-EvLyiwmuVLMBZD0yB4laJSU3gfKg7RK" />
+    <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/uc?export=view&id=1-EvLyiwmuVLMBZD0yB4laJSU3gfKg7RK" />
+    <img src="https://drive.google.com/uc?export=view&id=1-EvLyiwmuVLMBZD0yB4laJSU3gfKg7RK" width="100" height="40" alt="LinkedIn Tika" title="LinkedIn Tika" />
   </picture>
 </a>
+
+
+
 </div>
 
 
