@@ -73,7 +73,17 @@
 </p>
 
 ### 🌐 Socials
- <!-- LinkedIn -->
+<p align="left"> 
+  <!-- Email -->
+<a href="mailto:chrinoren@gmail.com" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" 
+       alt="Email" 
+       width="32" 
+       height="32" 
+       style="filter: brightness(0) invert(1);" />
+</a>
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/chrinore-esambu-589725253" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
@@ -94,13 +104,12 @@
 
 <!--tika-->
 <a href="https://www.linkedin.com/company/tika-%E2%84%A2" target="_blank" rel="noreferrer">
-  <picture>
+  <picture width="102" height="102">
     <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/uc?export=view&id=1BM63EUBAw0ouI_v0GGenN5hluQq6lkSJ" />
     <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/uc?export=view&id=1BM63EUBAw0ouI_v0GGenN5hluQq6lkSJ" />
-    <img src="https://drive.google.com/uc?export=view&id=1BM63EUBAw0ouI_v0GGenN5hluQq6lkSJ" width="90" height="90" alt="LinkedIn" title="LinkedIn" />
+    <img src="https://drive.google.com/uc?export=view&id=1BM63EUBAw0ouI_v0GGenN5hluQq6lkSJ" width="32" height="26" alt="LinkedIn" title="LinkedIn" />
   </picture>
 </a>
-
 
 
 
