@@ -104,9 +104,9 @@
 <!--tika-->
 <a href="https://www.instagram.com/mr_esambu_16?igsh=Y215Njc3N24za2U2" target="_blank" rel="noreferrer">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/uc?export=view&id=1V6XgfRkIpjYenJkBfMII9PNj5_juROUF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/uc?export=view&id=1V6XgfRkIpjYenJkBfMII9PNj5_juROUF" />
-    <img src="https://drive.google.com/uc?export=view&id=1V6XgfRkIpjYenJkBfMII9PNj5_juROUF" width="32" height="26" alt="Instagram" title="Instagram" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/1BM63EUBAw0ouI_v0GGenN5hluQq6lkSJ/view?usp=drive_link" />
+    <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/file/d/1BM63EUBAw0ouI_v0GGenN5hluQq6lkSJ/view?usp=drive_link" />
+    <img src="https://drive.google.com/file/d/1BM63EUBAw0ouI_v0GGenN5hluQq6lkSJ/view?usp=drive_link" width="32" height="26" alt="Instagram" title="Instagram" />
   </picture>
 </a>
 
