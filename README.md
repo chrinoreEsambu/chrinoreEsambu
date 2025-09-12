@@ -93,7 +93,15 @@
   </a>
 
   <!-- Instagram -->
- 
+  <a href="https://www.instagram.com/mr_esambu_16?igsh=Y215Njc3N24za2U2" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="26" alt="Instagram" title="Instagram" />
+    </picture>
+  </a>
+</p>
+
 <!--tika-->
 <a href="https://www.linkedin.com/company/tika-%E2%84%A2" target="_blank" rel="noreferrer">
   <picture>
