@@ -108,7 +108,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/uc?export=view&id=1-EvLyiwmuVLMBZD0yB4laJSU3gfKg7RK" />
     <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/uc?export=view&id=1-EvLyiwmuVLMBZD0yB4laJSU3gfKg7RK" />
-    <img src="https://drive.google.com/uc?export=view&id=1-EvLyiwmuVLMBZD0yB4laJSU3gfKg7RK" width="85" height="32" alt="LinkedIn Tika" title="LinkedIn Tika" />
+    <img src="https://drive.google.com/uc?export=view&id=1-EvLyiwmuVLMBZD0yB4laJSU3gfKg7RK" width="85" height="31" alt="LinkedIn Tika" title="LinkedIn Tika" />
   </picture>
 </a>
 
