@@ -1,5 +1,5 @@
 - 👋 Olá, I’m @chrinore Esambu
-- 👀 I’m interested in Web app developement
+- 👀 Interested in Web app developement
 - 📫 Reach me by instagram mr_esambu_16, on linkdin 'chrinore Esambu' & mail
 - ⚡ Fun fact : I like computer competitions and especially participating in their organization.
 
