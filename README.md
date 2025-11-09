@@ -95,7 +95,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="28" height="28" alt="Instagram" title="Instagram" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="27" height="27" alt="Instagram" title="Instagram" />
     </picture>
   </a>
 
@@ -105,7 +105,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/uc?export=view&id=1-EvLyiwmuVLMBZD0yB4laJSU3gfKg7RK" />
     <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/uc?export=view&id=1-EvLyiwmuVLMBZD0yB4laJSU3gfKg7RK" />
-    <img src="https://drive.google.com/uc?export=view&id=1-EvLyiwmuVLMBZD0yB4laJSU3gfKg7RK" width="85" height="31" alt="LinkedIn Tika" title="LinkedIn Tika" />
+    <img src="https://drive.google.com/uc?export=view&id=1-EvLyiwmuVLMBZD0yB4laJSU3gfKg7RK" width="24" height="20" alt="LinkedIn Tika" title="LinkedIn Tika" />
   </picture>
 </a>
 
