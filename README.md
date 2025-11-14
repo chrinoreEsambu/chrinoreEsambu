@@ -3,7 +3,7 @@
 <br>📫 Reach me by instagram mr_esambu_16, on linkdin 'chrinore Esambu' & mail
 <br>⚡ Fun fact : I like computer competitions and especially participating in their organization.
 
-### 🛠️ Tech Stack & Tool
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
   <!-- Version optimisée avec liens vérifiés -->
