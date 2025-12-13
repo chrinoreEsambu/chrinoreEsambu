@@ -40,9 +40,17 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="36" height="36" style="margin-right: 10px;" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="36" height="36" style="margin-right: 10px;" />
-  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+    alt="Vue.js"
+    title="Vue.js"
+    width="36"
+    height="36"
+    style="margin-right: 10px;"
+  />
+</a>
+
   <!-- <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/32372333?s=200&v=4" alt="Axios" title="Axios" width="36" height="36" style="margin-right: 10px; border-radius: 6px;" />
   </a> -->
