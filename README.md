@@ -50,23 +50,23 @@
     <img src="https://pinia.vuejs.org/logo.svg" alt="Pinia" title="Pinia" width="36" height="36" style="margin-right: 10px; border-radius: 6px;" />
   </a>
  
-  <a href="https://jwt.io/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://jwt.io/" target="_blank" rel="noreferrer">
   <img src="https://jwt.io/img/pic_logo.svg" 
        alt="JWT" 
        title="JSON Web Tokens" 
        width="36" 
        height="36" 
        style="background-color: #000000; border-radius: 8px; padding: 6px; margin-right: 10px;" />
-</a>
+</a> -->
 
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+<!-- <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" 
        alt="Photoshop" 
        title="Adobe Photoshop" 
        width="36" 
        height="36"
        style="background: #001e36; border-radius: 8px; padding: 6px; margin-right: 10px;">
-</a>
+</a> -->
 </p>
 
 ### 🌐 Socials
