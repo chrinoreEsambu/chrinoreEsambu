@@ -1,5 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+  <meta name="google-site-verification" content="-VA2Eed8GqTsJ10o5rAd3H_UobNDpcc1XBreYPn7VCM" />
+    
+</head>
+<body>
 
-<meta name="google-site-verification" content="-VA2Eed8GqTsJ10o5rAd3H_UobNDpcc1XBreYPn7VCM" />
+
+
 <h1>👋 Olá, I’m chrinore Esambu </h1>
 Interested in Web app developement.
 <br>Reach me by instagram mr_esambu_16, on linkdin 'chrinore Esambu' & mail.
@@ -122,6 +133,9 @@ Interested in Web app developement.
 
 
 </div>
+
+</body>
+</html>
 
 
 <!---
