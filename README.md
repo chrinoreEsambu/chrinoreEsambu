@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-  <meta name="google-site-verification" content="-VA2Eed8GqTsJ10o5rAd3H_UobNDpcc1XBreYPn7VCM" />
+  <meta name="google-site-verification" content="waLEeCzhijyOgaG3CjXZ0ffecTAR6GcYAG2RVlH99Wo" />
     
 </head>
 <body>
