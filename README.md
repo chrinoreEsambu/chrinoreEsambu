@@ -8,8 +8,6 @@
 </head>
 <body>
 
-
-
 <h1>👋 Olá, I’m chrinore Esambu </h1>
 Interested in Web app developement.
 
