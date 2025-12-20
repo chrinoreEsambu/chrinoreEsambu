@@ -122,9 +122,9 @@ Interested in Web app developement.
  <!--tika-->
 <a href="https://www.linkedin.com/company/tika-%E2%84%A2" target="_blank" rel="noreferrer">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/uc?export=view&id=1-EvLyiwmuVLMBZD0yB4laJSU3gfKg7RK" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/uc?export=view&id=1-EvLyiwmuVLMBZD0yB4laJSU3gfKg7RK"  />
     <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/uc?export=view&id=1-EvLyiwmuVLMBZD0yB4laJSU3gfKg7RK" />
-    <img src="https://drive.google.com/uc?export=view&id=1-EvLyiwmuVLMBZD0yB4laJSU3gfKg7RK" width="84" height="30" alt="LinkedIn Tika" title="LinkedIn Tika" />
+    <img src="https://drive.google.com/uc?export=view&id=1-EvLyiwmuVLMBZD0yB4laJSU3gfKg7RK" width="84" height="30" alt="LinkedIn Tika" title="LinkedIn Tika"  />
   </picture>
 </a>
 
