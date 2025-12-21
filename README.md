@@ -17,7 +17,7 @@ Interested in Web app developement.
 ### Tech Stack & Tools
 
 <p align="left">
-  <!-- Version optimisée avec liens vérifiés -->
+  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="36" height="36" style="margin-right: 10px;" />
   </a>
@@ -91,7 +91,7 @@ Interested in Web app developement.
 ### Socials
 <div style="display: flex; align-items: center; gap: 15px;">
 
-  <!-- Email -->
+  
   <a href="mailto:chrinoren@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" 
          alt="Email" 
@@ -100,7 +100,7 @@ Interested in Web app developement.
          style="filter: brightness(0) invert(1);" />
   </a>
 
-  <!-- LinkedIn perso -->
+ 
   <a href="https://www.linkedin.com/in/chrinore-esambu-589725253" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
@@ -118,8 +118,7 @@ Interested in Web app developement.
     </picture>
   </a>
 
-<!-- LinkedIn Tika -->
- <!--tika-->
+
 <a href="https://www.linkedin.com/company/tika-%E2%84%A2" target="_blank" rel="noreferrer">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/uc?export=view&id=1-EvLyiwmuVLMBZD0yB4laJSU3gfKg7RK"  />
