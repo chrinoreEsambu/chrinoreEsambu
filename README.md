@@ -98,8 +98,7 @@ Interested in Web app developement.
          height="32" 
          style="filter: brightness(0) invert(1);" />
   </a>
-
- 
+  
   <a href="https://www.linkedin.com/in/chrinore-esambu-589725253" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
@@ -108,7 +107,7 @@ Interested in Web app developement.
     </picture>
   </a>
 
-  <!-- Instagram -->
+  
   <a href="https://www.instagram.com/mr_esambu_16?igsh=Y215Njc3N24za2U2" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
@@ -117,7 +116,6 @@ Interested in Web app developement.
     </picture>
   </a>
 
-
 <a href="https://www.linkedin.com/company/tika-%E2%84%A2" target="_blank" rel="noreferrer">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/uc?export=view&id=1-EvLyiwmuVLMBZD0yB4laJSU3gfKg7RK"  />
@@ -125,8 +123,6 @@ Interested in Web app developement.
     <img src="https://drive.google.com/uc?export=view&id=1-EvLyiwmuVLMBZD0yB4laJSU3gfKg7RK" width="84" height="30" alt="LinkedIn Tika" title="LinkedIn Tika"  />
   </picture>
 </a>
-
-
 
 </div>
 
