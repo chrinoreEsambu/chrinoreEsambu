@@ -13,7 +13,7 @@ Interested in Web app developement.
 <br>Reach me by instagram mr_esambu_16, on linkdin 'chrinore Esambu' & mail.
 <br>Fun fact : I like computer competitions and especially participating in their organization.
 
-### Tech Stack & Tools
+### Tech Stack & Tools 
 
 <p align="left">
   
