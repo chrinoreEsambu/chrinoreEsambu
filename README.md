@@ -16,7 +16,6 @@ Interested in Web app developement.
 ### Tech Stack & Tools 
 
 <p align="left">
-  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="36" height="36" style="margin-right: 10px;" />
   </a>
