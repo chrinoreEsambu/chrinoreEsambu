@@ -104,7 +104,6 @@ Interested in Web app developement.
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="26" height="26" alt="LinkedIn" title="LinkedIn" />
     </picture>
   </a>
-
   
   <a href="https://www.instagram.com/mr_esambu_16?igsh=Y215Njc3N24za2U2" target="_blank" rel="noreferrer">
     <picture>
