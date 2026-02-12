@@ -43,6 +43,7 @@ Interested in Web app developement.
   <!-- <a href="https://render.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36" style="margin-right: 10px;" />
   </a> -->
+
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="36" height="36" style="margin-right: 10px;" />
   </a>
@@ -66,7 +67,6 @@ Interested in Web app developement.
   <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://pinia.vuejs.org/logo.svg" alt="Pinia" title="Pinia" width="36" height="36" style="margin-right: 10px; border-radius: 6px;" />
   </a>
- 
   <!-- <a href="https://jwt.io/" target="_blank" rel="noreferrer">
   <img src="https://jwt.io/img/pic_logo.svg" 
        alt="JWT" 
@@ -89,7 +89,6 @@ Interested in Web app developement.
 ### Socials
 <div style="display: flex; align-items: center; gap: 15px;">
 
-  
   <a href="mailto:chrinoren@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" 
          alt="Email" 
