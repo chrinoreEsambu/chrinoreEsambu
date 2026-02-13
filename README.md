@@ -7,7 +7,7 @@
 </head>
 <body>
   
-<h1>👋 Olá, I’m chrinore Esambu</h1> 
+<h1>👋 Olá, I’m chrinore Esambu</h1>
 Interested in Web app developement.
 
 <br>Reach me by instagram mr_esambu_16, on linkdin 'chrinore Esambu' & mail.
