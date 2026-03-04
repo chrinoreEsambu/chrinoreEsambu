@@ -9,7 +9,7 @@
   
 <h1>👋 Olá, I’m chrinore</h1>
 
-🧠 I focus on full-stack development using modern JavaScript technologies. <br>
+🧠 Focus on full-stack development using modern JavaScript technologies. <br>
 <br/>
 
 
