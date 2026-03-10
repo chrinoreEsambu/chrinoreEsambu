@@ -6,7 +6,6 @@
 <meta name="google-site-verification" content="waLEeCzhijyOgaG3CjXZ0ffecTAR6GcYAG2RVlH99Wo"/>
 </head>
 <body>
-  
 <h1>👋 Olá, I’m chrinore</h1>
 
  Focus on full-stack development using modern JavaScript technologies. <br>
