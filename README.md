@@ -9,8 +9,7 @@
 <h1>👋 Olá, I’m chrinore</h1>
 
  Focus on full-stack development using modern JavaScript technologies. <br>
-
-
+<!-- <br/> -->
 
 <p>🧩 I enjoy working with Vue.js ecosystem (Vue, Pinia, Nuxt), Node.js, and building structured backend architectures.</br>Currently improving my skills in software architecture, API design, and scalable system thinking.</p>
 🔭 Reach me by instagram mr_esambu_16, on linkdin 'chrinore Esambu' & mail.
