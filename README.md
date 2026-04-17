@@ -119,7 +119,7 @@ Currently improving my skills in software architecture, API design, and scalable
 
   <a href="https://www.linkedin.com/in/chrinore-esambu-589725253" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-         style="width:30px;height:30px;" />
+         style="width:28px;height:28px;" />
   </a>
 
   <a href="https://www.instagram.com/mr_esambu_16" target="_blank">
