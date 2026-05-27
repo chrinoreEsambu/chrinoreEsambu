@@ -33,6 +33,7 @@ Currently improving my skills in software architecture, API design, and scalable
   </li>
 </ul>
 
+<h3>Built With</h3>
 <div style="display: flex; align-items: flex-end; gap: 12px; flex-wrap: wrap;">
 
   <a href="https://git-scm.com/" target="_blank">
