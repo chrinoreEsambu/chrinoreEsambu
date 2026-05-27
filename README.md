@@ -20,7 +20,9 @@ Currently improving my skills in software architecture, API design, and scalable
 🔭 Reach me by instagram mr_esambu_16, on linkedin 'chrinore Esambu' & mail.
 <br>
 😌 Fun fact : I like computer competitions and especially participating in their organization.
+<br>
 
+🦺 Currently building : https://sahraopenfin.netlify.app/
 <h3>Tech Stack & Tools</h3>
 
 <div style="display: flex; align-items: flex-end; gap: 12px; flex-wrap: wrap;">
