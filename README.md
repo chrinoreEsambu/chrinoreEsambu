@@ -22,8 +22,16 @@ Currently improving my skills in software architecture, API design, and scalable
 😌 Fun fact : I like computer competitions and especially participating in their organization.
 <br>
 
-🦺 Currently building Sof : https://sahraopenfin.netlify.app/
-<h3>Tech Stack & Tools</h3>
+<h3>Actually</h3>
+
+<ul>
+  <li>
+    🦺 Currently building 
+    <a href="https://sahraopenfin.netlify.app/" target="_blank">
+      SahraOpenFin
+    </a>
+  </li>
+</ul>
 
 <div style="display: flex; align-items: flex-end; gap: 12px; flex-wrap: wrap;">
 
@@ -135,6 +143,24 @@ Currently improving my skills in software architecture, API design, and scalable
   </a>
   
 </div>
+<h3>Previous Projects</h3>
 
+<ul>
+  <li>
+    🏠 
+    <a href="https://asfourmaisondart.netlify.app/" target="_blank">
+      Asfour Maison d’Art
+    </a>
+    - Tunisian home decor e-commerce
+  </li>
+
+  <li>
+    🤝 
+    <a href="https://brotherhood-crowdfund.netlify.app/" target="_blank">
+      Brotherhood Crowdfund
+    </a>
+    - community crowdfunding platform
+  </li>
+</ul>
 </body>
 </html>
