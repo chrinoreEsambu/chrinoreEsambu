@@ -26,7 +26,7 @@ Currently improving my skills in software architecture, API design, and scalable
 
 <ul>
   <li>
-    🦺 Currently building 
+    🦺 Currently building
     <a href="https://sahraopenfin.netlify.app/" target="_blank">
       SahraOpenFin
     </a>
