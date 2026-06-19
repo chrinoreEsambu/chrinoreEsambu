@@ -27,8 +27,8 @@ Currently improving my skills in software architecture, API design, and scalable
 <ul>
   <li>
     🦺 Currently building
-    <a href="https://sahraopenfin.netlify.app/" target="_blank">
-      SahraOpenFin
+    <a href="https://www.harara.tn/" target="_blank">
+      harara.tn
     </a>
   </li>
 </ul>
@@ -161,6 +161,14 @@ Currently improving my skills in software architecture, API design, and scalable
       Brotherhood Crowdfund
     </a>
     - community crowdfunding platform
+  </li>
+
+  <li>
+    🏦 
+    <a href="https://sahraopenfin.netlify.app/" target="_blank">
+      SahraOpenFin
+    </a>
+    - Open Banking platform
   </li>
 </ul>
 </body>
