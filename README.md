@@ -13,13 +13,13 @@
 Focus on full-stack development using modern JavaScript technologies. <br>
 
 <p>
-{•} I enjoy working with Vue.js ecosystem (Vue, Pinia, Nuxt), Node.js, and building structured backend architectures.<br>
+{•_} I enjoy working with Vue.js ecosystem (Vue, Pinia, Nuxt), Node.js, and building structured backend architectures.<br>
 Currently improving my skills in software architecture, API design, and scalable system thinking.
 </p>
 
-{•} Reach me by instagram mr_esambu_16, on linkedin 'chrinore Esambu' & mail.
+{•_} Reach me by instagram mr_esambu_16, on linkedin 'chrinore Esambu' & mail.
 <br>
-{•} Fun fact : I like computer competitions and especially participating in their organization.
+{•_} Fun fact : I like computer competitions and especially participating in their organization.
 <br>
 
 <h3>Actually</h3>
