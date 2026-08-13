@@ -17,9 +17,9 @@ Focus on full-stack development using modern JavaScript technologies. <br>
 Currently improving my skills in software architecture, API design, and scalable system thinking.
 </p>
 
-{•_} Reach me by instagram mr_esambu_16, on linkedin 'chrinore Esambu' & mail.
+_ Reach me by instagram mr_esambu_16, on linkedin 'chrinore Esambu' & mail.
 <br>
-{•_} Fun fact : I like computer competitions and especially participating in their organization.
+•_ Fun fact : I like computer competitions and especially participating in their organization.
 <br>
 
 <h3>Actually</h3>
