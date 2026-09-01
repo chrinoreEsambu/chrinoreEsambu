@@ -10,7 +10,7 @@
 
 <h1>👋 Olá, I’m chrinore</h1>
 
-Focus on full-stack development using modern JavaScript technologies. <br>
+Focus on full-stack development using modern JavaScript technologies and interested in fintech. <br>
 
 <p>
 {•_} I enjoy working with Vue.js ecosystem (Vue, Pinia, Nuxt), Node.js, and building structured backend architectures.<br>
